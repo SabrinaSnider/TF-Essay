@@ -17,6 +17,6 @@ over-complicated and erroneous.
 
 ## Tools
 - Python
-- TensorFlow library
-- Scikit-Learn library
-- Metrics library
+- TensorFlow library https://www.tensorflow.org/
+- Scikit-Learn library https://scikit-learn.org/stable/
+- Metrics library https://pypi.org/project/metrics/
